@@ -1,7 +1,6 @@
 const frontElt = document.querySelector('.front');
 const numberFlipper = document.querySelector('.flipper');
 const donkeyImageElt = document.querySelector('.donkey-image');
-const numberElt = document.querySelector('.number');
 
 const donkeyAudio = new Audio('assets/donkey.mp3');
 

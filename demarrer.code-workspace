@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../demarrer"
+		},
+		{
+			"name": "donkeyGuessMyNumber",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "demarrer"
+	}
+}
